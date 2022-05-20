@@ -1,0 +1,26 @@
+/* 3. Libreria o Estante de comics */
+#bookshelf {
+  top: 0;
+  right: 0;
+  position: fixed;
+  z-index: 100;
+  width: 560px;
+  height: 100%;
+  padding: 20px 0;
+  background-color: rgb(24, 24, 24);
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 150px);
+  gap: 15px;
+  justify-content: center;
+  transition: transform 0.5s ease-in-out;
+  overflow: scroll;
+}
+
+.hide-bookshelf {
+  transform: translate(100%);
+}
+
+.portada-mini {
+  width: 150px;
+  height: 220px;
+}

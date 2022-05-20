@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+      App interactiva - Primer proyecto del Bootcamp "Frontend | JS"
+    </title>
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body>
+    <a id="top"></a>
+    <header>
+      <h1>MARVEL COMICS</h1>
+      <div>
+        <p id="added-message" class="invisible"></p>
+        <img
+          id="bookshelf-icon"
+          class="header-icons"
+          src="https://cdn-icons.flaticon.com/png/512/3145/premium/3145746.png?token=exp=1652382995~hmac=0ae0edd0cd673e16b02ccc5f3cf3601e"
+          alt="bookshelf-icon"
+        />
+      </div>
+    </header>
+
+    <main id="contenedor">
+      <!-- Slider o Carrusel -->
+      <section id="slider">
+        <img id="img-slider" />
+        <ul id="menu-slider"></ul>
+      </section>
+      <!-- Infos -->
+      <div id="info-comic" class="invisible">
+        <div id="info-comic-background"></div>
+        <img
+          id="exit-icon"
+          src="https://cdn-icons-png.flaticon.com/512/753/753345.png"
+        />
+        <div id="info-comic-text">
+          <img id="portada-grande" width="380" height="580" />
+          <div>
+            <h3 id="comic-title"></h3>
+            <b>Personaje:</b>
+            <p id="comic-character"></p>
+            <b>Descripción:</b>
+            <p>
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel quae
+              magni itaque iure delectus quos sed, minus quo, repudiandae
+              expedita rerum harum voluptatum voluptates vero enim ipsa dolores
+              nisi quaerat!
+            </p>
+            <button id="agregarA">Agregar a tu estantería</button>
+          </div>
+        </div>
+      </div>
+      <!-- Galeria -->
+      <div id="galeria"><h2>Galeria - Comics</h2></div>
+
+      <!-- Libreria o Estante -->
+      <div id="bookshelf" class="hide-bookshelf"></div>
+    </main>
+
+    <footer><a href="#top">Marvel Comics</a></footer>
+
+    <script src="./js/app.js"></script>
+    <script src="./js/slider.js"></script>
+    <script src="./js/showinfo.js"></script>
+    <script src="./js/bookshelf.js"></script>
+  </body>
+</html>

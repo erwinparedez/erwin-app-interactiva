@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "title": "The mighty Thor",
+    "character": "Thor",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/4/03/564ca85300754/clean.jpg"
+  },
+
+  {
+    "id": 2,
+    "title": "Moonknight: black, white and blood",
+    "character": "Moonknight",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/4/f0/622a290c0b20a/clean.jpg"
+  },
+
+  {
+    "id": 3,
+    "title": "Moonknight",
+    "character": "Moonknight",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/3/10/51894b2a3f214/clean.jpg"
+  },
+
+  {
+    "id": 4,
+    "title": "Hulk vs Thor: Banner of War PART 1",
+    "character": "Thor, Hulk",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/1/50/62685196747be/clean.jpg"
+  },
+
+  {
+    "id": 5,
+    "title": "Thor: God of Thunder",
+    "character": "Thor",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/3/30/51646f6c2a712/clean.jpg"
+  },
+
+  {
+    "id": 6,
+    "title": "Doctor Strange",
+    "character": "Doctor Strange",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/4/30/5b0f1729c8968/clean.jpg"
+  },
+
+  {
+    "id": 7,
+    "title": "Shang-Chi",
+    "character": "Shang-Chi",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/1/00/62753516c399d/clean.jpg"
+  },
+
+  {
+    "id": 8,
+    "title": "Captain America: Symbol of Truth",
+    "character": "Captain Falcon",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/d/d0/62685178d7132/clean.jpg"
+  },
+
+  {
+    "id": 9,
+    "title": "Captain America: Symbol of Truth",
+    "character": "Captain Falcon, Deadpool",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/6/70/624f460d96b3b/clean.jpg"
+  },
+
+  {
+    "id": 10,
+    "title": "X-men 011",
+    "character": "X-men",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/9/50/627534f8ab1be/clean.jpg"
+  },
+
+  {
+    "id": 11,
+    "title": "Avengers: Tech on Avengers",
+    "character": "Avengers, Spiderman",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/a/90/61f98e9918eda/clean.jpg"
+  },
+
+  {
+    "id": 12,
+    "title": "The incredible Hulk: Planet Hulk",
+    "character": "Hulk",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/f/40/51dd9c3f4ad5b/detail.jpg"
+  },
+
+  {
+    "id": 13,
+    "title": "Daredevil",
+    "character": "Daredevil",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/6/70/5654b349ba62e/clean.jpg"
+  },
+
+  {
+    "id": 14,
+    "title": "The Amazing Spiderman",
+    "character": "Spiderman",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/b/90/5b3feb60f1a30/clean.jpg"
+  },
+
+  {
+    "id": 15,
+    "title": "Daredevil: Woman without fear",
+    "character": "Daredevil",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/7/60/61f98e88a237e/clean.jpg"
+  },
+
+  {
+    "id": 16,
+    "title": "Fantastic Four: Reckoning war",
+    "character": "Fantastic Four, She-Hulk",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/a/a0/61f98e79eea56/clean.jpg"
+  },
+
+  {
+    "id": 17,
+    "title": "Spider-woman vs Spider-woman?!",
+    "character": "Spider-woman",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/4/b0/61f98e48a3878/clean.jpg"
+  },
+
+  {
+    "id": 18,
+    "title": "Guardians of the Galaxy: Rocket's powerful plan",
+    "character": "Guardians of the Galaxy, Ant-Man",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/f/b0/56abda994ae7d/clean.jpg"
+  },
+
+  {
+    "id": 19,
+    "title": "Black Panther: Soul of a machine",
+    "character": "Black Panther",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/6/80/5a34585aa485e/clean.jpg"
+  },
+
+  {
+    "id": 20,
+    "title": "Avengers: Wanted by the Collector",
+    "character": "Avengers",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/c/70/5dc59a8f9ac00/clean.jpg"
+  },
+
+  {
+    "id": 21,
+    "title": "Black Panther: Soul of a machine",
+    "character": "Black Panther",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/6/d0/5a37df9f17281/clean.jpg"
+  },
+
+  {
+    "id": 22,
+    "title": "Venom",
+    "character": "Venom",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/8/a0/5aea3123880ca/clean.jpg"
+  },
+
+  {
+    "id": 23,
+    "title": "X-men: Disassembled PART 1",
+    "character": "X-men",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/f/20/5be370edc8ae1/clean.jpg"
+  },
+
+  {
+    "id": 24,
+    "title": "Spiderman",
+    "character": "Spiderman, Venom",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/3/40/5f282a661283a/clean.jpg"
+  },
+
+  {
+    "id": 25,
+    "title": "Spider-verse unlimited",
+    "character": "Spiderman",
+    "img": "https://i.annihil.us/u/prod/marvel/i/mg/4/10/62615e4fe8916/clean.jpg"
+  }
+]

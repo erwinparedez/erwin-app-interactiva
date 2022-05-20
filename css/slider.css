@@ -1,0 +1,53 @@
+/* Slider o Carrusel */
+/*Caja del Slider */
+#slider {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+  background-color: rgb(30, 30, 30);
+}
+
+#img-slider {
+  position: absolute;
+  width: auto;
+  max-height: 600px;
+  opacity: 1;
+  transition: opacity 0.8s;
+}
+
+/* Botones del Slider */
+#menu-slider {
+  display: flex;
+  text-align: center;
+  padding: 0;
+  bottom: 0;
+  margin-bottom: 15px;
+  position: absolute;
+}
+
+.item-slider {
+  list-style: none;
+  background-color: white;
+  width: 15px;
+  height: 15px;
+  margin-right: 10px;
+  border-radius: 50%;
+}
+
+.item-slider:hover {
+  cursor: pointer;
+  background-color: rgb(69, 151, 71);
+}
+
+@media only screen and (max-width: 950px) {
+  #slider {
+    height: 70vw;
+  }
+  #img-slider {
+    width: 100%;
+  }
+}

@@ -1,0 +1,42 @@
+/* 1. Galeria de Comics */
+#galeria {
+  background-color: bisque;
+  margin: 0;
+  padding: 30px 0;
+}
+
+/* Comics */
+ul {
+  list-style: none;
+  font-size: 20px;
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 250px);
+  gap: 40px;
+  padding: 0;
+  justify-content: center;
+  font-family: "Rubik", sans-serif;
+}
+
+li:hover {
+  cursor: pointer;
+
+  color: rgb(213, 23, 23);
+}
+
+li div {
+  padding-top: 5px;
+  text-transform: capitalize;
+}
+
+.portadas {
+  width: 250px;
+  height: 380px;
+  box-shadow: 1px 5px 6px 0px rgba(0, 0, 0, 0.25);
+  -webkit-box-shadow: 1px 5px 6px 0px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 1px 5px 6px 0px rgba(0, 0, 0, 0.25);
+}
+
+.portadas:hover {
+  filter: grayscale(50%);
+}

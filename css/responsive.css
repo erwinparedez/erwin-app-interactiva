@@ -1,0 +1,37 @@
+/* Responsive Design- Media Queries */
+@media only screen and (max-width: 950px) {
+  #info-comic-text {
+    padding-right: 8%;
+  }
+}
+
+@media only screen and (min-width: 710px) and (max-width: 750px) {
+  h3 {
+    margin: 0 0 20px 0;
+  }
+  #info-comic-text div p {
+    margin: 8px 0;
+  }
+}
+
+@media only screen and (max-width: 710px) {
+  #bookshelf {
+    width: 100%;
+    overflow-x: hidden;
+  }
+  #info-comic {
+    position: absolute;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+  }
+  #info-comic-text {
+    flex-direction: column;
+    position: relative;
+  }
+  #portada-grande {
+    margin: 0 auto;
+    display: inline-block;
+  }
+}
